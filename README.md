@@ -1,4 +1,4 @@
-## Hi there I am David! 🙋🏻
+## Hi there I am David!
 Hey I am glad that you are here! 
 Below you can find my current projects: ( I hope you find them as interesting as I do )
 
