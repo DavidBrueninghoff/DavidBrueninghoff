@@ -2,8 +2,8 @@
 Hey I am glad that you are here! 
 Below you can find my current projects: ( I hope you find them as interesting as I do )
 
-### 📚 Projects 📚
-- Click **[HERE](https://github.com/DavidBrueninghoff/Portfolio/blob/main/README.md)** for my projects
+### 📚 Most recent Projects 📚
+- Click **[HERE](https://github.com/DavidBrueninghoff/Portfolio/blob/main/README.md)** 
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, R, Tableau, Power BI 
