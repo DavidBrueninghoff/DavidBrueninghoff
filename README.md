@@ -3,7 +3,8 @@ Hey I am glad that you are here!
 Below you can find my current projects: ( I hope you find them as interesting as I do )
 
 ### 📚 Most recent Projects 📚
-- Click **[HERE](https://github.com/DavidBrueninghoff/Portfolio/blob/main/README.md)** 
+- Fake News Classification App: Click **[HERE](https://github.com/DavidBrueninghoff/fake-news-classifier)** 
+- House Price Prediction App: Click **[HERE](https://github.com/DavidBrueninghoff/house-price-estimation)** 
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, R, Tableau, Power BI 
